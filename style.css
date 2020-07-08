@@ -1,0 +1,115 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo {
+    height: 64px;
+}
+
+.header-section {
+    background-color: #F0FFF0;
+}
+
+.top-header-area {
+    margin-top: 50px;
+}
+
+section {
+    margin-bottom: 100px;
+}
+
+#text-orange {
+    color: orange;
+}
+
+#text-green {
+    color: green;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 48px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.header-img {
+    width: 100%;
+}
+
+.button-click {
+    background: #21B573;
+    border-radius: 33px;
+    padding: 5px 20px;
+    border: none;
+    color: white;
+    cursor: pointer;
+
+}
+
+.category-section .card {
+    padding: 40px 20px;
+    box-shadow: none;
+}
+
+
+.category-section img {
+    width: 30%;
+    padding-top: 10px;
+}
+
+.cat-hover:hover {
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.5);
+
+}
+
+.courses .card img {
+    padding: 20px;
+}
+
+.card, .card-footer {
+    border: none;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+
+.profile-img {
+    width: 40%;
+    height: auto;
+    margin-left: 150px;
+}
+
+
+footer {
+    background-color: #282531;
+    color: white;
+    padding: 35px;
+}
+
+ul {
+    list-style: none
+}
+
+#copyright {
+    color: #CDCDCD;
+    margin-top: 70px;
+
+}
+/* footer head of link text */
+.fot-highlight {
+    font-weight: bold;
+}
+
+.subscribe{
+    border-style: none;
+    background-color: #e81c24;
+    font-size: 14px;
+    color: #fff;
+    padding: 8px 0;
+    width: 100%;
+    text-align: center;
+    border-radius: 0;
+}
